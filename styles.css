@@ -11,8 +11,7 @@ main {
 
 h1 {
   color: purple;
-  text-decoration: underline;
-  background-color: white;
+  background-color: lightyellow;
 }
 
 h1, main {
