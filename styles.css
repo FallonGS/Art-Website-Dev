@@ -47,7 +47,7 @@ nav li a:focus {
 }
 a {
   text-decoration: underline;
-  font-color: blue;
+  color: blue;
   font-size: 16px;
 }
 
