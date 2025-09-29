@@ -1,8 +1,10 @@
 body {
-    margin: 0;
+    margin: 2;
     background-color: pink;
     text-align: center;
 } main {
-    text-size: 20;
-    text-style: bold;
+    text-size: 24;
+    text-style: italic;
+} h1 {
+    text-color: purple;
 }
