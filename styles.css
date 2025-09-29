@@ -48,7 +48,8 @@ nav li a {
   text-decoration: none;
   color: #1a1a1a;
   border: 1px solid #ddd;
-  border-radius: 8px;
+  background-color: lightyellow;
+  border-radius: 2px;
   font-weight: 600;
   box-sizing: border-box;
 }
