@@ -8,3 +8,29 @@ body {
 } h1 {
     text-color: purple;
 }
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+nav li {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  padding: 0.75rem 1rem;
+  min-width: 160px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+nav li a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+nav li a:hover,
+nav li a:focus {
+  outline: 3px solid rgba(21,156,228,0.25);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
