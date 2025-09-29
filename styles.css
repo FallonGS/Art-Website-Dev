@@ -10,7 +10,7 @@ main {
 h1 {
   color: purple;
   background-color: lightyellow;
-  padding: 0.25rem 0.6rem;
+  padding: 1rem 1rem;
 }
 h1, main {
   margin-left: 0;
