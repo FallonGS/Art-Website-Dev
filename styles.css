@@ -2,12 +2,19 @@ body {
     margin: 2;
     background-color: pink;
     text-align: center;
-} main {
+} 
+main {
     text-size: 24;
     text-style: italic;
-} h1 {
+} 
+h1 {
     text-decoration: underline;
     background-color: white;
+}
+h1, main {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 1.25rem;  /* separates heading and main from nav */
 }
 nav ul {
   list-style: none;
