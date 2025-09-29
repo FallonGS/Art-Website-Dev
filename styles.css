@@ -5,7 +5,7 @@ body {
 }
 main {
   font-size: 24px;
-  font-style: italic;
+  padding: 0 1.25rem;
 }
 h1 {
   color: purple;
