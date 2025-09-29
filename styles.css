@@ -14,6 +14,7 @@ nav ul {
   padding: 0;
   display: flex;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 nav li {
   border: 1px solid #ddd;
