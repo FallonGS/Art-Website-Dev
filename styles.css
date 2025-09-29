@@ -45,4 +45,9 @@ nav li a:focus {
   outline: 3px solid rgba(21,156,228,0.25);
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
+a {
+  text-decoration: underline;
+  font-color: blue;
+  font-size: 16px;
+}
 
