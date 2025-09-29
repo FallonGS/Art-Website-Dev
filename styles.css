@@ -58,7 +58,11 @@ nav li a {
   font-weight: 700;
   display: block;
 }
-.nav-desc { margin: 0; color: #555; font-size: 0.95rem; }
+.nav-desc { 
+margin: 0;
+color: purple; 
+font-size: 0.95rem; 
+}
 nav li a:hover,
 nav li a:focus {
   transform: translateY(-4px);
