@@ -6,7 +6,8 @@ body {
     text-size: 24;
     text-style: italic;
 } h1 {
-    text-color: purple;
+    text-decoration: underline;
+    background-color: white;
 }
 nav ul {
   list-style: none;
