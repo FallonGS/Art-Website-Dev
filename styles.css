@@ -72,6 +72,7 @@ nav li a:focus {
 li {
   text-align: left;
   font-size: 20px;
+  padding-left: 2.25rem;
   color: purple;
 }
 
