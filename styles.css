@@ -71,8 +71,9 @@ nav li a:focus {
 } 
 li {
   text-align: left;
-  font-size: 20px;
+  font-size: 1.5rem;
   padding-left: 2.25rem;
+  margin-bottom: 1rem;
   color: purple;
 }
 
