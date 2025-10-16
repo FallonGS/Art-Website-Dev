@@ -68,5 +68,11 @@ nav li a:hover,
 nav li a:focus {
   transform: translateY(-4px);
   outline: none;
+} 
+li {
+  text-align: left;
+  font-size: 20px;
+  color: purple;
 }
+
 
